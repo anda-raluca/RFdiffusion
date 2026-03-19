@@ -1,0 +1,4 @@
+- +inference.target_pdb=examples/input_pdbs/1YCR.pdb
+- contigmap.contigs=[A25-84/0 84-84]
+- inference.output_prefix=test_outputs/binder_test
+- inference.num_designs=1

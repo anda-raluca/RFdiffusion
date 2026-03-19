@@ -1,0 +1,2 @@
+[2026-01-02 12:44:38,180][__main__][INFO] - Found GPU with device_name Quadro RTX 6000. Will run RFdiffusion on Quadro RTX 6000
+[2026-01-02 12:44:38,181][rfdiffusion.inference.model_runners][INFO] - Reading checkpoint from /homes/55/anda/RFdiffusion/rfdiffusion/inference/../../models/Complex_base_ckpt.pt

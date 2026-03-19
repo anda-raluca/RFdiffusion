@@ -1,0 +1,6 @@
+[2025-12-29 13:48:05,665][__main__][INFO] - Found GPU with device_name Quadro RTX 6000. Will run RFdiffusion on Quadro RTX 6000
+[2025-12-29 13:48:05,666][rfdiffusion.inference.model_runners][INFO] - Reading checkpoint from /homes/55/anda/RFdiffusion/rfdiffusion/inference/../../models/Base_ckpt.pt
+[2025-12-29 13:48:26,367][rfdiffusion.inference.model_runners][INFO] - Loading checkpoint.
+[2025-12-29 13:48:26,563][rfdiffusion.diffusion][INFO] - Using cached IGSO3.
+[2025-12-29 13:48:26,580][__main__][INFO] - Making design test_outputs/binder_test_0
+[2025-12-29 13:48:26,584][rfdiffusion.inference.model_runners][INFO] - Using contig: ['B1-100/0 100-100']

@@ -1,0 +1,7 @@
+- inference.output_prefix=example_outputs/design_binders/PD-L1
+- inference.input_pdb=/homes/55/anda/RFdiffusion/examples/input_pdbs/4Z18.pdb
+- contigmap.contigs=[A19-239/0 60-90]
+- ppi.hotspot_res=[A56,A110,A121,A122,A124,A125]
+- inference.num_designs=10
+- denoiser.noise_scale_ca=0
+- denoiser.noise_scale_frame=0
